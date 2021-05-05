@@ -1,236 +1,236 @@
 {
-    "liv": [
-        {
-            "ref": "LIV305",
-            "name": "Calefator Concept Médio Grafite",
-            "capacidade": "340m³",
-            "url": "https://livaquecimento.com.br/produtos/calefator-liv-305/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2019/01/Ref_LIV305.jpg",
-            "kw": "13"
-        },
-        {
-            "ref": "LIV306",
-            "name": "Calefator Concept Médio Grafite e Vermelho",
-            "capacidade": "340m³",
-            "url": "https://livaquecimento.com.br/produtos/calefator-liv-306/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/03/calefator-LIV306-img-1000x583-1.jpg",
-            "kw": "13"
-        },
-        {
-            "ref": "LIV410",
-            "name": "Calefator Concept Grande Grafite",
-            "capacidade": "450m³",
-            "url": "https://livaquecimento.com.br/produtos/calefator-liv-410/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2019/01/Ref_LIV410.jpg",
-            "kw": "17"
-        },
-        {
-            "ref": "LIV411",
-            "name": "Calefator Concept Grande Grafite e Vermelho",
-            "capacidade": "450m³",
-            "url": "https://livaquecimento.com.br/produtos/calefator-liv-411/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/03/calefator-LIV411-img-1000x583-1.jpg",
-            "kw": "17"
-        },
-        {
-            "ref": "LIV412",
-            "name": "Calefator Elegance Grande Grafite",
-            "capacidade": "450m³",
-            "url": "https://livaquecimento.com.br/produtos/calefator-liv-412/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2019/01/Ref_LIV412.jpg",
-            "kw": "17"
-        },
-        {
-            "ref": "LIV413",
-            "name": "Calefator Elegance Grande Grafite e Vermelho",
-            "capacidade": "450m³",
-            "url": "https://livaquecimento.com.br/produtos/calefator-liv-413/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/03/calefator-LIV413-img-1000x583-1.jpg",
-            "kw": "17"
-        },
-        {
-            "ref": "LIV313",
-            "name": "Calefator Monarch Médio Grafite",
-            "capacidade": "312m³",
-            "url": "https://livaquecimento.com.br/produtos/calefator-liv-313/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/03/calefator-LIV313-img-1000x583-1.jpg",
-            "kw": "12"
-        },
-        {
-            "ref": "LIV314",
-            "name": "Calefator Monarch Médio Grafite e Vermelho",
-            "capacidade": "312m³",
-            "url": "https://livaquecimento.com.br/produtos/calefator-liv-314/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/03/calefator-LIV314-img-1000x583-1.jpg",
-            "kw": "12"
-        },
-        {
-            "ref": "LIV418",
-            "name": "Calefator Monarch Grande Grafite",
-            "capacidade": "416m³",
-            "url": "https://livaquecimento.com.br/produtos/calefator-liv-418/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/03/calefator-LIV418-img-1000x583-1.jpg",
-            "kw": "16"
-        },
-        {
-            "ref": "LIV419",
-            "name": "Calefator Monarch Grande Grafite e Vermelho",
-            "capacidade": "416m³",
-            "url": "https://livaquecimento.com.br/produtos/calefator-liv-419/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/03/calefator-LIV419-img-1000x583-1.jpg",
-            "kw": "16"
-        },
-        {
-            "ref": "LIV450",
-            "name": "Calefator Elíptico Pequeno Grafite",
-            "capacidade": "260m³",
-            "url": "https://livaquecimento.com.br/produtos/calefator-liv-450/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2019/01/Ref_LIV450.jpg",
-            "kw": "10"
-        },
-        {
-            "ref": "LIV490",
-            "name": "Calefator Elíptico Médio Grafite",
-            "capacidade": "310m³",
-            "url": "https://livaquecimento.com.br/produtos/calefator-liv-490/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/elementor/thumbs/Ref_LIV490-o1tv1lzii7cwq5pxdwo0wbhuti6hvkce88ueljjd0y.jpg",
-            "kw": "12"
-        },
-        {
-            "ref": "LIV315",
-            "name": "Calefator Angular Médio Grafite",
-            "capacidade": "275m³",
-            "url": "https://livaquecimento.com.br/produtos/calefator-liv-315/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2021/02/calefator-liv-315-angular.jpg",
-            "kw": "11"
-        },
-        {
-            "ref": "LIV416",
-            "name": "Calefator com Forno Cuisine Grande Grafite",
-            "capacidade": "312m³",
-            "url": "https://livaquecimento.com.br/produtos/calefator-liv-416/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2019/06/Ref_LIV416.jpg",
-            "kw": "12"
-        },
-        {
-            "ref": "LIV417",
-            "name": "Calefator com Forno Cuisine Grande Grafite e Vermelho",
-            "capacidade": "312m³",
-            "url": "https://livaquecimento.com.br/produtos/calefator-liv-417/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/03/calefator-LIV417-img-1000x583-1.jpg",
-            "kw": "12"
-        },
-        {
-            "ref": "LIV202",
-            "name": "Inserto Evolution 600 Pequeno Grafite",
-            "capacidade": "260m³",
-            "url": "https://livaquecimento.com.br/produtos/inserto-liv-202/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2021/01/inserto-LIV202-novo.jpg",
-            "kw": "10"
-        },
-        {
-            "ref": "LIV408",
-            "name": "Inserto Evolution 800 Médio Grafite",
-            "capacidade": "320m³",
-            "url": "https://livaquecimento.com.br/produtos/inserto-liv-408/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2021/01/inserto-LIV408-novo.jpg",
-            "kw": "12"
-        },
-        {
-            "ref": "LIV804",
-            "name": "Fogão a Lenha Fusion Direito Tampo de ferro fundido Grafite e Vermelho",
-            "capacidade": "245m³",
-            "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-804/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-ferro-LIV804-1000x583-1.jpg",
-            "kw": "9"
-        },
-        {
-            "ref": "LIV804E",
-            "name": "Fogão a Lenha Fusion Esquerdo Tampo de ferro fundido Grafite e Vermelho",
-            "capacidade": "245m³",
-            "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-804/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-ferro-LIV804-1000x583-1.jpg",
-            "kw": "9"
-        },
-        {
-            "ref": "LIV805",
-            "name": "Fogão a Lenha Fusion Direito Tampo de ferro fundido Grafite ",
-            "capacidade": "245m³",
-            "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-805/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-ferro-LIV805-1000x583-1.jpg",
-            "kw": "9"
-        },
-        {
-            "ref": "LIV805E",
-            "name": "Fogão a Lenha Fusion Esquerdo Tampo de ferro fundido Grafite",
-            "capacidade": "245m³",
-            "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-805/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-ferro-LIV805-1000x583-1.jpg",
-            "kw": "9"
-        },
-        {
-            "ref": "LIV802",
-            "name": "Fogão a Lenha Fusion Direito Tampo de vidro Grafite e Vermelho",
-            "capacidade": "245m³",
-            "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-802/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2019/01/Ref_LIV305.jpg",
-            "kw": "9"
-        },
-        {
-            "ref": "LIV802E",
-            "name": "Fogão a Lenha Fusion Esquerdo Tampo de vidro Grafite e Vermelho",
-            "capacidade": "245m³",
-            "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-802/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-vidro-LIV802-1000x583-1.jpg",
-            "kw": "9"
-        },
-        {
-            "ref": "LIV803",
-            "name": "Fogão a Lenha Fusion Direito Tampo de vidro Grafite",
-            "capacidade": "245m³",
-            "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-803/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-vidro-LIV803-1000x583-1.jpg",
-            "kw": "9"
-        },
-        {
-            "ref": "LIV803E",
-            "name": "Fogão a Lenha Fusion Esquerdo Tampo de vidro Grafite ",
-            "capacidade": "245m³",
-            "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-803/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-vidro-LIV803-1000x583-1.jpg",
-            "kw": "9"
-        },
-        {
-            "ref": "LIV806",
-            "name": "Fogão a Lenha Fusion Saída T Direito Tampo de vidro Grafite e Vermelho",
-            "capacidade": "245m³",
-            "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-806/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-vidro-LIV806-1000x583-1.jpg",
-            "kw": "9"
-        },
-        {
-            "ref": "LIV806E",
-            "name": "Fogão a Lenha Fusion Saída T Esquerdo Tampo de vidro Grafite e Vermelho",
-            "capacidade": "245m³",
-            "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-806/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-vidro-LIV806-1000x583-1.jpg",
-            "kw": "9"
-        },
-        {
-            "ref": "LIV807",
-            "name": "Fogão a Lenha Fusion Saída T Direito Tampo de vidro Grafite",
-            "capacidade": "245m³",
-            "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-807/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-vidro-LIV807-1000x583-1.jpg",
-            "kw": "9"
-        },
-        {
-            "ref": "LIV807E",
-            "name": "Fogão a Lenha Fusion Saída T Esquerdo Tampo de vidro Grafite ",
-            "capacidade": "245m³",
-            "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-807/",
-            "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-vidro-LIV807-1000x583-1.jpg",
-            "kw": "9"
-        }
-    ]
+  "liv": [
+    {
+      "ref": "LIV806E",
+      "name": "Fogão a Lenha Fusion Saída T Esquerdo Tampo de vidro Grafite e Vermelho",
+      "capacidade": "245m³",
+      "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-806/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-vidro-LIV806-1000x583-1.jpg",
+      "kw": "9"
+    },
+    {
+      "ref": "LIV807",
+      "name": "Fogão a Lenha Fusion Saída T Direito Tampo de vidro Grafite",
+      "capacidade": "245m³",
+      "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-807/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-vidro-LIV807-1000x583-1.jpg",
+      "kw": "9"
+    },
+    {
+      "ref": "LIV807E",
+      "name": "Fogão a Lenha Fusion Saída T Esquerdo Tampo de vidro Grafite ",
+      "capacidade": "245m³",
+      "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-807/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-vidro-LIV807-1000x583-1.jpg",
+      "kw": "9"
+    },
+    {
+      "ref": "LIV305",
+      "name": "Calefator Concept Médio Grafite",
+      "capacidade": "340m³",
+      "url": "https://livaquecimento.com.br/produtos/calefator-liv-305/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2019/01/Ref_LIV305.jpg",
+      "kw": "13"
+    },
+    {
+      "ref": "LIV306",
+      "name": "Calefator Concept Médio Grafite e Vermelho",
+      "capacidade": "340m³",
+      "url": "https://livaquecimento.com.br/produtos/calefator-liv-306/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/03/calefator-LIV306-img-1000x583-1.jpg",
+      "kw": "13"
+    },
+    {
+      "ref": "LIV410",
+      "name": "Calefator Concept Grande Grafite",
+      "capacidade": "450m³",
+      "url": "https://livaquecimento.com.br/produtos/calefator-liv-410/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2019/01/Ref_LIV410.jpg",
+      "kw": "17"
+    },
+    {
+      "ref": "LIV411",
+      "name": "Calefator Concept Grande Grafite e Vermelho",
+      "capacidade": "450m³",
+      "url": "https://livaquecimento.com.br/produtos/calefator-liv-411/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/03/calefator-LIV411-img-1000x583-1.jpg",
+      "kw": "17"
+    },
+    {
+      "ref": "LIV412",
+      "name": "Calefator Elegance Grande Grafite",
+      "capacidade": "450m³",
+      "url": "https://livaquecimento.com.br/produtos/calefator-liv-412/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2019/01/Ref_LIV412.jpg",
+      "kw": "17"
+    },
+    {
+      "ref": "LIV413",
+      "name": "Calefator Elegance Grande Grafite e Vermelho",
+      "capacidade": "450m³",
+      "url": "https://livaquecimento.com.br/produtos/calefator-liv-413/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/03/calefator-LIV413-img-1000x583-1.jpg",
+      "kw": "17"
+    },
+    {
+      "ref": "LIV313",
+      "name": "Calefator Monarch Médio Grafite",
+      "capacidade": "312m³",
+      "url": "https://livaquecimento.com.br/produtos/calefator-liv-313/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/03/calefator-LIV313-img-1000x583-1.jpg",
+      "kw": "12"
+    },
+    {
+      "ref": "LIV314",
+      "name": "Calefator Monarch Médio Grafite e Vermelho",
+      "capacidade": "312m³",
+      "url": "https://livaquecimento.com.br/produtos/calefator-liv-314/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/03/calefator-LIV314-img-1000x583-1.jpg",
+      "kw": "12"
+    },
+    {
+      "ref": "LIV418",
+      "name": "Calefator Monarch Grande Grafite",
+      "capacidade": "416m³",
+      "url": "https://livaquecimento.com.br/produtos/calefator-liv-418/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/03/calefator-LIV418-img-1000x583-1.jpg",
+      "kw": "16"
+    },
+    {
+      "ref": "LIV419",
+      "name": "Calefator Monarch Grande Grafite e Vermelho",
+      "capacidade": "416m³",
+      "url": "https://livaquecimento.com.br/produtos/calefator-liv-419/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/03/calefator-LIV419-img-1000x583-1.jpg",
+      "kw": "16"
+    },
+    {
+      "ref": "LIV450",
+      "name": "Calefator Elíptico Pequeno Grafite",
+      "capacidade": "260m³",
+      "url": "https://livaquecimento.com.br/produtos/calefator-liv-450/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2019/01/Ref_LIV450.jpg",
+      "kw": "10"
+    },
+    {
+      "ref": "LIV490",
+      "name": "Calefator Elíptico Médio Grafite",
+      "capacidade": "310m³",
+      "url": "https://livaquecimento.com.br/produtos/calefator-liv-490/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/elementor/thumbs/Ref_LIV490-o1tv1lzii7cwq5pxdwo0wbhuti6hvkce88ueljjd0y.jpg",
+      "kw": "12"
+    },
+    {
+      "ref": "LIV315",
+      "name": "Calefator Angular Médio Grafite",
+      "capacidade": "275m³",
+      "url": "https://livaquecimento.com.br/produtos/calefator-liv-315/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2021/02/calefator-liv-315-angular.jpg",
+      "kw": "11"
+    },
+    {
+      "ref": "LIV416",
+      "name": "Calefator com Forno Cuisine Grande Grafite",
+      "capacidade": "312m³",
+      "url": "https://livaquecimento.com.br/produtos/calefator-liv-416/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2019/06/Ref_LIV416.jpg",
+      "kw": "12"
+    },
+    {
+      "ref": "LIV417",
+      "name": "Calefator com Forno Cuisine Grande Grafite e Vermelho",
+      "capacidade": "312m³",
+      "url": "https://livaquecimento.com.br/produtos/calefator-liv-417/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/03/calefator-LIV417-img-1000x583-1.jpg",
+      "kw": "12"
+    },
+    {
+      "ref": "LIV202",
+      "name": "Inserto Evolution 600 Pequeno Grafite",
+      "capacidade": "260m³",
+      "url": "https://livaquecimento.com.br/produtos/inserto-liv-202/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2021/01/inserto-LIV202-novo.jpg",
+      "kw": "10"
+    },
+    {
+      "ref": "LIV408",
+      "name": "Inserto Evolution 800 Médio Grafite",
+      "capacidade": "320m³",
+      "url": "https://livaquecimento.com.br/produtos/inserto-liv-408/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2021/01/inserto-LIV408-novo.jpg",
+      "kw": "12"
+    },
+    {
+      "ref": "LIV804",
+      "name": "Fogão a Lenha Fusion Direito Tampo de ferro fundido Grafite e Vermelho",
+      "capacidade": "245m³",
+      "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-804/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-ferro-LIV804-1000x583-1.jpg",
+      "kw": "9"
+    },
+    {
+      "ref": "LIV804E",
+      "name": "Fogão a Lenha Fusion Esquerdo Tampo de ferro fundido Grafite e Vermelho",
+      "capacidade": "245m³",
+      "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-804/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-ferro-LIV804-1000x583-1.jpg",
+      "kw": "9"
+    },
+    {
+      "ref": "LIV805",
+      "name": "Fogão a Lenha Fusion Direito Tampo de ferro fundido Grafite ",
+      "capacidade": "245m³",
+      "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-805/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-ferro-LIV805-1000x583-1.jpg",
+      "kw": "9"
+    },
+    {
+      "ref": "LIV805E",
+      "name": "Fogão a Lenha Fusion Esquerdo Tampo de ferro fundido Grafite",
+      "capacidade": "245m³",
+      "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-805/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-ferro-LIV805-1000x583-1.jpg",
+      "kw": "9"
+    },
+    {
+      "ref": "LIV802",
+      "name": "Fogão a Lenha Fusion Direito Tampo de vidro Grafite e Vermelho",
+      "capacidade": "245m³",
+      "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-802/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2019/01/Ref_LIV305.jpg",
+      "kw": "9"
+    },
+    {
+      "ref": "LIV802E",
+      "name": "Fogão a Lenha Fusion Esquerdo Tampo de vidro Grafite e Vermelho",
+      "capacidade": "245m³",
+      "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-802/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-vidro-LIV802-1000x583-1.jpg",
+      "kw": "9"
+    },
+    {
+      "ref": "LIV803",
+      "name": "Fogão a Lenha Fusion Direito Tampo de vidro Grafite",
+      "capacidade": "245m³",
+      "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-803/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-vidro-LIV803-1000x583-1.jpg",
+      "kw": "9"
+    },
+    {
+      "ref": "LIV803E",
+      "name": "Fogão a Lenha Fusion Esquerdo Tampo de vidro Grafite ",
+      "capacidade": "245m³",
+      "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-803/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-vidro-LIV803-1000x583-1.jpg",
+      "kw": "9"
+    },
+    {
+      "ref": "LIV806",
+      "name": "Fogão a Lenha Fusion Saída T Direito Tampo de vidro Grafite e Vermelho",
+      "capacidade": "245m³",
+      "url": "https://livaquecimento.com.br/produtos/fogao-a-lenha-liv-806/",
+      "image": "https://livaquecimento.com.br/wp-content/uploads/2020/05/fogao-a-lenha-tampo-vidro-LIV806-1000x583-1.jpg",
+      "kw": "9"
+    }
+  ]
 }

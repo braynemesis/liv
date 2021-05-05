@@ -60,7 +60,7 @@
             <p class="d-flex justify-content-start align-items-start">
               <feather class="color-text f-12 pr-2" type="mail"></feather>
               <a class="color-primary f-800" href="mailto:sac@metavila.com.br"
-                >sac@metavila.com.br</a
+                >sac@livaquecimento.com.br</a
               >
             </p>
           </div>
@@ -129,7 +129,11 @@ export default {
         let max = parseFloat(this.kw) + 3;
         return val > this.kw && val < max;
       });
-      this.productsResult.push(...list);
+      if(parseFloat(this.kw) < 9){
+        this.productsResult.push(product_list[0], product_list[1], product_list[2]);
+      } else {
+        this.productsResult.push(...list);
+      }
       this.productsResult.sort(function (a, b) {
         return a.kw - b.kw;
       });
